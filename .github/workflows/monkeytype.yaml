@@ -10,7 +10,7 @@ jobs:
     name: Update README
     runs-on: ubuntu-latest
     steps:
-      - uses: blackbirdbbye/monkeytype-readme@main
+      - uses: blackbirdbbye/blackbirdbbye@main
         with:
           monkeytype_api_key: ${{ secrets.MONKEYTYPE_API_KEY }}
           mode: 'time'
