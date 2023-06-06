@@ -1,8 +1,8 @@
 [![Header](https://github.com/blackbirdbbye/blackbirdbbye/blob/main/assets/banner.png)](mailto:slvdmsv@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-090909?style=flat&logo=linkedin&logoColor=0a66c2)](https://www.linkedin.com/in/alexeyshpavda)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-090909?style=flat&logo=linkedin&logoColor=0a66c2)](https://www.linkedin.com/in/vadimseleznev/)
 [![Gmail](https://img.shields.io/badge/-Gmail-090909?style=flat&logo=Gmail&logoColor=ea4335)](mailto:slvdmsv@gmail.com)
-[![Facebook](https://img.shields.io/badge/-Facebook-090909?style=flat&logo=Facebook&logoColor=1877f2)](https://www.facebook.com/alexeyshpavda)
-[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=flat&logo=telegram&logoColor=3390ec)](https://t.me/the_cybermania)<br>
+[![Facebook](https://img.shields.io/badge/-Facebook-090909?style=flat&logo=Facebook&logoColor=1877f2)]()
+[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=flat&logo=telegram&logoColor=3390ec)](https://t.me/blackbirdbbye)<br>
 [![monkeytype.badge]][monkeytype]
 
 Hey there 👋
