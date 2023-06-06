@@ -10,11 +10,11 @@ jobs:
     name: Update README
     runs-on: ubuntu-latest
     steps:
-      - uses: blackbirdbbye/blackbirdbbye@main
+      - uses: vnphanquang/monkeytype-readme@main
         with:
           monkeytype_api_key: ${{ secrets.MONKEYTYPE_API_KEY }}
           mode: 'time'
-          mode2: '60'
+          mode2: '30'
           style: 'for-the-badge'
           logoVariant: 'one'
           label: 'monkeytype'
