@@ -12,15 +12,15 @@ I’m Vadim, a QA engineer, lorem ipsum dolor sit amet, consectetur adipiscing e
 Want to know more about me? Check out my [CV]().
 
 ### Testing Artifacts
-- [Test Design Techniques]()
+- [Test Design Techniques]
 - [Checklists]
 - [Test-Cases]
 - [Bug-Reports]
 - [User Stories]
-- [Databases]()
+- [Databases]
 - [API Testing]
 - [Sniffers]
-- [Bash]()
+- [Bash](https://github.com/blackbirdbbye/bash#all-the-bash-commands-that-ive-used-in-practical-and-commercial-projects)
 - [Git]
 
 
