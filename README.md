@@ -3,6 +3,8 @@
 [![Gmail](https://img.shields.io/badge/-Gmail-090909?style=flat&logo=Gmail&logoColor=ea4335)](mailto:slvdmsv@gmail.com)
 [![Facebook](https://img.shields.io/badge/-Facebook-090909?style=flat&logo=Facebook&logoColor=1877f2)]()
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=flat&logo=telegram&logoColor=3390ec)](https://t.me/blackbirdbbye)<br>
+
+[![codewars.badge]][codewars]
 [![monkeytype.badge]][monkeytype]
 
 Hey there 👋
@@ -47,12 +49,17 @@ Want to know more about me? Check out my [CV]().
 ![VS Code](https://img.shields.io/badge/-VSCode-090909?style=flat-square&logo=visualstudiocode&logoColor=47C5FB)
 ![PyCharm](https://img.shields.io/badge/-PyCharm-090909?style=flat-square&logo=pycharm&logoColor=097CDB)
 ![Git](https://img.shields.io/badge/-Git-090909?style=flat-square&logo=git)
-![bash](https://img.shields.io/badge/-Bash-090909?style=flat-square&logo=bash)
+![bash](https://img.shields.io/badge/-Bash-090909?style=flat-square&logo=bash)<br>
+
+
 
 ### Certificates
 - [Functional Softaware Testing]() | [About](https://artsiomrusau.com/qa-from-scratch)<br>
 [![Github Badge](https://img.shields.io/badge/@artichokeee-090909?style=flat-squa&logo=Github&logoColor=white)](https://github.com/artichokeee)
 
+
+[codewars.badge]: https://www.codewars.com/users/blackbirdbbye/badges/small
+[codewars]:https://www.codewars.com/users/blackbirdbbye
 [monkeytype.badge]: https://img.shields.io/endpoint?style=flat&url=https%3A%2F%2Fmonkeytype-badge-vhd5lan7mmhz.runkit.sh%3Fmessage%3D62wpm%26label%3Dmonkeytype%26style%26logoVariant%3Done
 [monkeytype]: https://monkeytype.com/profile/bb_blackbird
 
