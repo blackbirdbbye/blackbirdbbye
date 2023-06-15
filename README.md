@@ -3,7 +3,6 @@
 [![Gmail](https://img.shields.io/badge/-Gmail-090909?style=flat&logo=Gmail&logoColor=ea4335)](mailto:slvdmsv@gmail.com)
 [![Facebook](https://img.shields.io/badge/-Facebook-090909?style=flat&logo=Facebook&logoColor=1877f2)]()
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=flat&logo=telegram&logoColor=3390ec)](https://t.me/blackbirdbbye)<br>
-
 [![codewars.badge]][codewars]
 [![monkeytype.badge]][monkeytype]
 
